@@ -1,8 +1,11 @@
 # dio-desafio-github-primeiro-repo
-Projeto para primeiro projeto do bootcamp 
+Repositório para a concentração de todos os projetos criados durante o aprendizado na DIO.
 <hr>
-# Ao longo do processo de aprendizado na DIO foi realizado o seguinte projeto:
+
+# Projeto Realizado:
+
 ## PersonAPI REST API with Spring Boot (https://github.com/Mathsphysis/personapi-dio)
+
 Nesse projeto foram utilizados conceitos importantes como:  
 -  Spring Initilizr para confecção do projeto inicial e suas dependências
 -  Maven e Maven Repository para build e controle de dependências
